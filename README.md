@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=PG_%20fullsack&fontSize=90" />
 
-# PG_fullstack
-
 **_비전공, 노베이스의 개발 입문자 입니다._** <br/>
 때가 된다면 지금 이 _README_를 지우도록 하겠습니다. <br/>
 ```그때까지 노력하려는 중!!!!!```
