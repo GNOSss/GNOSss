@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 # PG_fullstack
 
 **_비전공, 노베이스의 개발 입문자 입니다._** <br/>
