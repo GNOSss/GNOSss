@@ -6,6 +6,6 @@
 
 Bootcamp에 참여하고 있으며  
 강의내용과 새롭게 알된 코드 문법은  
-[Github](github.com/GNOSss) 와 [Notion](https://www.notion.so/PGdev-series5-12fcf37612468099bb4ff52ce44b8ba4)에 업로드할테니 기대해주세요.  
+[Github](www.github.com/GNOSss) 와 [Notion](https://www.notion.so/PGdev-series5-12fcf37612468099bb4ff52ce44b8ba4)에 업로드할테니 기대해주세요.  
 
 감사합니다.
