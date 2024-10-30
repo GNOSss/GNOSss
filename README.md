@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gold&height=300&section=header&text=PG_%20fullsack&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=yellow&height=300&section=header&text=PG_%20fullsack&fontSize=90" />
 
 **_비전공, 노베이스의 개발 입문자 입니다._** <br/>
 때가 된다면 지금 이 _README_를 지우도록 하겠습니다. <br/>
